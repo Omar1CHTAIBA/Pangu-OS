@@ -28,6 +28,36 @@ All components operate directly inside the kernel without external dependencies.
 
 ## Demonstration
 
+### Desktop Environment
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e64083d-bd75-49bc-908b-09773df25747" width="85%">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3dc61b7a-3a41-48f0-b670-c2b5f61a321f" width="32%">
+  <img src="https://github.com/user-attachments/assets/1d8cd6e0-b762-449f-82a7-c8c8f2b1f746" width="32%">
+  <img src="https://github.com/user-attachments/assets/e19ff64e-5918-42c0-a2a2-be2684c535bb" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50a582cf-e203-4653-b131-34cc7ace5361" width="32%">
+  <img src="https://github.com/user-attachments/assets/a1a744bb-bd72-4146-8d20-df9328753f28" width="32%">
+  <img src="https://github.com/user-attachments/assets/41acd6c1-ab91-4e2d-85ed-b4e113fee70c" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fc36ea0-0e18-4c8b-96c8-f008110b8efb" width="32%">
+  <img src="https://github.com/user-attachments/assets/9de297d3-d445-42d7-a8af-f4805d5a479c" width="32%">
+  <img src="https://github.com/user-attachments/assets/90ffe7c6-bf88-443e-a207-46786a61c3a4" width="32%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e9f8b156-6644-4be8-a5f9-642bb9075ee8" width="32%">
+</p>
+
 ---
 
 # Features
